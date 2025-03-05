@@ -9,3 +9,16 @@ img {
     width: 400px;
     border-radius: 10px;
 }
+
+ol {
+    width: fit-content;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+ol li {
+    font-size: 18px;
+    padding: 5px 10px;
+    text-align: left;
+}
